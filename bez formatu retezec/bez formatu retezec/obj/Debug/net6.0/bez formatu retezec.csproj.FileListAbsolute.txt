@@ -1,0 +1,15 @@
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\bin\Debug\net6.0\bez formatu retezec.exe
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\bin\Debug\net6.0\bez formatu retezec.deps.json
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\bin\Debug\net6.0\bez formatu retezec.runtimeconfig.json
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\bin\Debug\net6.0\bez formatu retezec.dll
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\bin\Debug\net6.0\bez formatu retezec.pdb
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\obj\Debug\net6.0\bez formatu retezec.csproj.AssemblyReference.cache
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\obj\Debug\net6.0\bez formatu retezec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\obj\Debug\net6.0\bez formatu retezec.AssemblyInfoInputs.cache
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\obj\Debug\net6.0\bez formatu retezec.AssemblyInfo.cs
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\obj\Debug\net6.0\bez formatu retezec.csproj.CoreCompileInputs.cache
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\obj\Debug\net6.0\bez formatu retezec.dll
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\obj\Debug\net6.0\refint\bez formatu retezec.dll
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\obj\Debug\net6.0\bez formatu retezec.pdb
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\obj\Debug\net6.0\bez formatu retezec.genruntimeconfig.cache
+C:\Users\divoc\OneDrive\Plocha\bez formatu retezec\bez formatu retezec\obj\Debug\net6.0\ref\bez formatu retezec.dll
